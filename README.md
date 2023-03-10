@@ -21,7 +21,7 @@ Ths presents a Simple Go quizzing App.
 ```
 ## TO Run:
 #### After Set-Up ,run:
-* In the [Quiz_App Directory](https://github.com/Sachinsharmak/Go-Quiz-App-)
+* In the [Quiz_App Directory](https://github.com/Sachinsharmak/Go-Quiz-App-/tree/main/Quiz_App)
 >
 `go run main.go
 `
